@@ -27,6 +27,7 @@ I build things in **Go**, design scalable **cloud infrastructure**, and occasion
 
 ### 📜 Featured Projects  
 🚀 **[ShareFrame](https://github.com/ShareFrame)** – A short-form content social media app utilizin the AT Protocol.
+
 🛠️ **[IaC for ShareFrame](https://github.com/ShareFrame/shareframe-infra)** – AWS infra with Terraform.  
 
 ---
