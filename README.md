@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Henry Phillips!
 
-### 🏗️ Software Engineer | 🚀 Cloud Enthusiast | 🔒 Security-Minded Developer  
+### 🏗️ Cloud Security Engineer | 🚀 Cloud Enthusiast | 🔒 Security-Minded Developer  
 
 I build things in **Go**, design scalable **cloud infrastructure**, and occasionally wrestle with **Java**. Passionate about **serverless architectures**, **distributed systems**, and **developer tooling**.  
 
