@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Henry Phillips!
 
-<!--
-**uprightsleepy/uprightsleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Software Engineer | 🚀 Cloud Enthusiast | 🔒 Security-Minded Developer  
 
-Here are some ideas to get you started:
+I build things in **Go**, design scalable **cloud infrastructure**, and occasionally wrestle with **Java**. Passionate about **serverless architectures**, **distributed systems**, and **developer tooling**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On  
+- **🌐 ShareFrame:** Building a short-form video and photo content platform (iOS & Android) with [**AT Protocol**](https://atproto.com/) integration.  
+- **☁️ AWS Infrastructure:** Terraforming **ECS, AppSync, Lambda, DynamoDB, S3**, and more.  
+- **🔐 Secret Management & Security:** Managing secrets securely in cloud environments.  
+
+---
+
+### 🔧 My Tech Stack  
+#### **💻 Languages & Frameworks**  
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,spring,js,react,graphql&theme=dark)](https://skillicons.dev)
+
+#### **☁️ Cloud & Devops**  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes&theme=dark)](https://skillicons.dev)
+
+#### **🛠️ Other Tools**  
+[![My Skills](https://skillicons.dev/icons?i=redis,docker,figma,grafana,ubuntu&theme=dark)](https://skillicons.dev)  
+
+---
+
+### 📜 Featured Projects  
+🚀 **[ShareFrame](https://github.com/ShareFrame)** – Social media app with appointment booking, payments, and messaging.  
+🛠️ **[IaC for ShareFrame](https://github.com/ShareFrame/shareframe-infra)** – AWS infra with Terraform.  
+
+---
+
+### 📬 Let's Connect  
+- **LinkedIn:** [linkedin.com/in/henryjphillips](https://www.linkedin.com/in/henryjphillips/)  
+- **Bluesky:** [@henry.shareframe.social](https://bsky.app/profile/henry.shareframe.social)  
+
+🚀 _Always down to chat about **cloud infra, serverless, and scaling apps**!_  
