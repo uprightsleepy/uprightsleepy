@@ -7,7 +7,7 @@ I build things in **Go**, design scalable **cloud infrastructure**, and occasion
 ---
 
 ### 🚀 What I'm Working On  
-- **🌐 ShareFrame:** Building a short-form video and photo content platform (iOS & Android) with [**AT Protocol**](https://atproto.com/) integration.  
+- **🌐 [ShareFrame](https://github.com/ShareFrame):** Building a short-form video and photo content platform (iOS & Android) with [**AT Protocol**](https://atproto.com/) integration.  
 - **☁️ AWS Infrastructure:** Terraforming **ECS, AppSync, Lambda, DynamoDB, S3**, and more.  
 - **🔐 Secret Management & Security:** Managing secrets securely in cloud environments.  
 
