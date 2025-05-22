@@ -21,7 +21,7 @@ I build things in **Go**, design scalable **cloud infrastructure**, and occasion
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,gherkin,jenkins&theme=dark)](https://skillicons.dev)
 
 #### **🛠️ Other Tools**  
-[![My Skills](https://skillicons.dev/icons?i=redis,docker,figma,grafana,git&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=redis,docker,figma,grafana,git,bash&theme=dark)](https://skillicons.dev)  
 
 ---
 
