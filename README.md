@@ -15,7 +15,7 @@ I build things in **Go**, design scalable **cloud infrastructure**, and occasion
 
 ### 🔧 My Tech Stack  
 #### **💻 Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,spring,js,react,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,spring,graphql&theme=dark)](https://skillicons.dev)
 
 #### **☁️ Cloud & Devops**  
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes&theme=dark)](https://skillicons.dev)
