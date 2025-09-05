@@ -6,26 +6,25 @@ Experienced software engineer specializing in cloud security, scalable infrastru
 
 ## Technical Expertise
 
-**Languages & Frameworks**
-- Go, Python, Java, Spring Framework, GraphQL, C++
+**💻 Languages & Frameworks**  
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,spring,graphql,cpp&theme=dark)](https://skillicons.dev)
 
-**Cloud & DevOps**
-- AWS, Google Cloud Platform, Terraform, Kubernetes, Jenkins
-- Infrastructure as Code, CI/CD pipeline design
-- Container orchestration and microservices architecture
+**☁️ Cloud & DevOps**  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,jenkins,docker&theme=dark)](https://skillicons.dev)
 
-**Security & Operations**
-- Secret management and secure cloud deployments
-- Distributed systems design
-- Monitoring and observability (Grafana)
-- Redis, Docker, Git, Bash scripting
+**🔒 Security & Operations**  
+[![My Skills](https://skillicons.dev/icons?i=git,bash,redis,grafana&theme=dark)](https://skillicons.dev)
+
+---
 
 ## Current Focus
 
-- **Cloud Security Architecture:** Designing secure CI/CD platforms and IAM frameworks that don't make developers cry
-- **Secret Management:** Migrating legacy Vault setups to cloud-native solutions (at scale, without downtime)
-- **Compliance Automation:** Building FedRAMP and audit-ready infrastructure that actually stays compliant
-- **Threat Modeling:** Teaching Fortune 100 companies why their Kubernetes clusters aren't as secure as they think
+- **Cloud Security Architecture:** Designing secure CI/CD platforms and IAM frameworks that don't make developers cry  
+- **Secret Management:** Migrating legacy Vault setups to cloud-native solutions (at scale, without downtime)  
+- **Compliance Automation:** Building FedRAMP and audit-ready infrastructure that actually stays compliant  
+- **Threat Modeling:** Teaching Fortune 100 companies why their Kubernetes clusters aren't as secure as they think  
+
+---
 
 ## Certifications
 
@@ -33,6 +32,8 @@ Experienced software engineer specializing in cloud security, scalable infrastru
 - **AWS Security – Specialty (SCS-C02)**  
 - **CompTIA Security+**
 - **StrongDM Architect**
+
+---
 
 ## Contact
 
