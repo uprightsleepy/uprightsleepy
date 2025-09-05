@@ -1,39 +1,41 @@
-# 👋 Hey, I'm Henry Phillips!
+# Henry Phillips
 
-### 🏗️ Cloud Security Engineer | 🚀 Cloud Enthusiast | 🔒 Security-Minded Developer  
+**Cloud Security Engineer | Infrastructure Architect | Backend Developer**
 
-I build things in **Go**, design scalable **cloud infrastructure**, and occasionally wrestle with **Java**. Passionate about **serverless architectures**, **distributed systems**, and **developer tooling**.  
+Experienced software engineer specializing in cloud security, scalable infrastructure design, and backend development. Focused on building secure, reliable systems using modern cloud-native technologies and infrastructure-as-code practices.
 
----
+## Technical Expertise
 
-### 🚀 What I'm Working On  
-- **🌐 [ShareFrame](https://github.com/ShareFrame):** Building a short-form video and photo content platform (iOS & Android) with [**AT Protocol**](https://atproto.com/) integration.  
-- **☁️ AWS Infrastructure:** Terraforming **ECS, AppSync, Lambda, DynamoDB, S3**, and more.  
-- **🔐 Secret Management & Security:** Managing secrets securely in cloud environments.  
+**Languages & Frameworks**
+- Go, Python, Java, Spring Framework, GraphQL, C++
 
----
+**Cloud & DevOps**
+- AWS, Google Cloud Platform, Terraform, Kubernetes, Jenkins
+- Infrastructure as Code, CI/CD pipeline design
+- Container orchestration and microservices architecture
 
-### 🔧 My Tech Stack  
-#### **💻 Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,spring,graphql,cpp&theme=dark)](https://skillicons.dev)
+**Security & Operations**
+- Secret management and secure cloud deployments
+- Distributed systems design
+- Monitoring and observability (Grafana)
+- Redis, Docker, Git, Bash scripting
 
-#### **☁️ Cloud & Devops**  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,gherkin,jenkins&theme=dark)](https://skillicons.dev)
+## Current Focus
 
-#### **🛠️ Other Tools**  
-[![My Skills](https://skillicons.dev/icons?i=redis,docker,figma,grafana,git,bash&theme=dark)](https://skillicons.dev)  
+- **Cloud Security Architecture:** Designing secure CI/CD platforms and IAM frameworks that don't make developers cry
+- **Secret Management:** Migrating legacy Vault setups to cloud-native solutions (at scale, without downtime)
+- **Compliance Automation:** Building FedRAMP and audit-ready infrastructure that actually stays compliant
+- **Threat Modeling:** Teaching Fortune 100 companies why their Kubernetes clusters aren't as secure as they think
 
----
+## Certifications
 
-### 📜 Featured Projects  
-🚀 **[ShareFrame](https://github.com/ShareFrame)** – A short-form content social media app utilizin the AT Protocol.
+- **AWS Solutions Architect – Professional (SAP-C02)**
+- **AWS Security – Specialty (SCS-C02)**  
+- **CompTIA Security+**
+- **StrongDM Architect**
 
-🛠️ **[IaC for ShareFrame](https://github.com/ShareFrame/shareframe-infra)** – AWS infra with Terraform.  
+## Contact
 
----
+**LinkedIn:** [linkedin.com/in/henryjphillips](https://www.linkedin.com/in/henryjphillips/)  
 
-### 📬 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/henryjphillips](https://www.linkedin.com/in/henryjphillips/)  
-- **Bluesky:** [@henry.shareframe.social](https://bsky.app/profile/henry.shareframe.social)  
-
-🚀 _Always down to chat about **cloud infra, serverless, and scaling apps**!_  
+Always happy to discuss cloud architecture, security patterns, or why your Kubernetes cluster is probably more complex than it needs to be.
