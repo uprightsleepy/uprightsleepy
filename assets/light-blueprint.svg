@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 80" width="1280" height="80" role="img" aria-label="A point of light runs along the lines of a drawing's grid, turning at right angles.">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse" x="20" y="20">
+      <path d="M0.5 0V40M0 0.5H40" fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+    </pattern>
+    <style>
+      .trail { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 7s linear infinite; }
+      .head { stroke-dasharray: 0.035 2; stroke-dashoffset: 0.035; animation: run 7s linear infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 1; opacity: 1 } 50% { stroke-dashoffset: 0; opacity: 1 } 72%, 100% { stroke-dashoffset: 0; opacity: 0 } }
+      @keyframes run { 0% { stroke-dashoffset: 0.035 } 52%, 100% { stroke-dashoffset: -1.04 } }
+      @media (prefers-reduced-motion: reduce) { .trail { animation: none; stroke-dashoffset: 0 } .head { animation: none; opacity: 0 } }
+    </style>
+  </defs>
+  <rect width="1280" height="80" fill="#1b22d2"/>
+  <rect width="1280" height="80" fill="url(#grid)"/>
+  <g fill="none" stroke="#ffffff" stroke-linejoin="miter">
+    <g opacity="0.2"><path class="trail" pathLength="1" d="M-60 60H220V20H500V60H780V20H1060V60H1340" stroke-width="7"/></g>
+    <path class="trail" pathLength="1" d="M-60 60H220V20H500V60H780V20H1060V60H1340" stroke-width="1.5"/>
+    <g opacity="0.35"><path class="head" pathLength="1" d="M-60 60H220V20H500V60H780V20H1060V60H1340" stroke-width="11"/></g>
+    <path class="head" pathLength="1" d="M-60 60H220V20H500V60H780V20H1060V60H1340" stroke-width="4"/>
+  </g>
+</svg>
