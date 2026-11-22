@@ -1,42 +1,39 @@
-# Henry Phillips
+<a href="https://henryp.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-blueprint.png">
+    <img src="assets/banner-paper.png" width="100%" alt="Henry Phillips is an application and cloud security engineer. I build security into how software gets delivered. Full set at henryp.me.">
+  </picture>
+</a>
 
-**Cloud Security Engineer | Infrastructure Architect | Backend Developer**
+I build security into how software gets delivered: CI/CD platforms, secrets management, IAM and infrastructure as code on AWS and GCP. I write Go, Python, Java and Terraform.
 
-Experienced software engineer specializing in cloud security, scalable infrastructure design, and backend development. Focused on building secure, reliable systems using modern cloud-native technologies and infrastructure-as-code practices.
+I'm currently a Solutions Consultant at Wiz, now part of Google, where I manage 16 enterprise customers across AWS, GCP and Azure. Before that I worked in cloud security engineering and consulting at RKON and ScaleSec, and I started as a software engineer at Northwestern Mutual.
 
-## Technical Expertise
+## Work
 
-**💻 Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,spring,graphql,cpp&theme=dark)](https://skillicons.dev)
+| Title | Summary |
+| :-- | :-- |
+| **[Secrets migration](https://henryp.me/case-studies/secrets-migration)**<br>Case study, 2024 to 2025 | Designed and built the core Go Lambda that migrated 62,800+ secrets from HashiCorp Vault to AWS Secrets Manager. 85% of the migration was done in four months. |
+| **[CI/CD platform](https://henryp.me/case-studies/cicd-platform)**<br>Case study, 2025 to 2026 | Architected a CI/CD platform on Cloud Run for a company new to GCP, with SonarQube scanning, secret validation and signed production deploys built in. Twelve teams adopted it voluntarily, and onboarding a team went from weeks of tickets to about five minutes. |
+| **[Spawnpointed](https://spawnpointed.com)**<br>Project, 2026 | A daily GeoGuessr-style game for video games: an edge-hosted React app with tiled map imagery, HMAC-signed play state, and passkey and OAuth sign-in. |
+| **[Badger Politics](https://badgerpolitics.org)**<br>Project, 2026 | An open-source Wisconsin transparency site. A Python pipeline loads bills, votes, campaign finance and elections into SQLite and publishes a static Astro site with a keyless JSON API. |
 
-**☁️ Cloud & DevOps**  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,jenkins,docker&theme=dark)](https://skillicons.dev)
+## Skills
 
-**🔒 Security & Operations**  
-[![My Skills](https://skillicons.dev/icons?i=git,bash,redis,grafana&theme=dark)](https://skillicons.dev)
-
----
-
-## Current Focus
-
-- **Cloud Security Architecture:** Designing secure CI/CD platforms and IAM frameworks that don't make developers cry  
-- **Secret Management:** Migrating legacy Vault setups to cloud-native solutions (at scale, without downtime)  
-- **Compliance Automation:** Building FedRAMP and audit-ready infrastructure that actually stays compliant  
-- **Threat Modeling:** Teaching Fortune 100 companies why their Kubernetes clusters aren't as secure as they think  
-
----
+| Area | Tools |
+| :-- | :-- |
+| **Languages and frameworks** | Go, Java, Spring Boot, Spring Batch, Python, JavaScript, SQL, Bash |
+| **Cloud platforms** | AWS Lambda, S3, DynamoDB, AWS Secrets Manager, GCP Cloud Run, Firestore, Cloud KMS, Workload Identity |
+| **CI/CD and DevOps** | GitHub Actions, GitLab CI, Bitbucket, Cloud Build, Terraform, CloudFormation, Docker, Kubernetes |
+| **Application and cloud security** | SonarQube (SAST), Trivy (SCA, containers), Gitleaks, Wiz (CSPM), secrets management |
 
 ## Certifications
 
-- **AWS Solutions Architect – Professional (SAP-C02)**
-- **AWS Security – Specialty (SCS-C02)**  
-- **CompTIA Security+**
-- **StrongDM Architect**
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Security - Specialty
+- CompTIA Security+
+- StrongDM Architect
 
----
+## Find me
 
-## Contact
-
-**LinkedIn:** [linkedin.com/in/henryjphillips](https://www.linkedin.com/in/henryjphillips/)  
-
-Always happy to discuss cloud architecture, security patterns, or why your Kubernetes cluster is probably more complex than it needs to be.
+The full set of drawings is at [henryp.me](https://henryp.me), and its source is in [personal-site](https://github.com/uprightsleepy/personal-site). I'm also on [LinkedIn](https://www.linkedin.com/in/henryjphillips/).
