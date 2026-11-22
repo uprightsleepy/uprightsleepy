@@ -12,21 +12,27 @@ I build security into how software gets delivered: CI/CD platforms, secrets mana
   <img src="assets/light-paper.svg" width="100%" alt="A point of light runs along the lines of a drawing's grid, turning at right angles.">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-blueprint.png">
-  <img src="assets/skills-paper.png" width="100%" alt="Skills, drawn as a parts list. 1, Languages and frameworks: Go, Java, Spring Boot, Spring Batch, Python, JavaScript, SQL, Bash. 2, Cloud platforms: AWS Lambda, S3, DynamoDB, AWS Secrets Manager, GCP Cloud Run, Firestore, Cloud KMS, Workload Identity. 3, CI/CD and DevOps: GitHub Actions, GitLab CI, Bitbucket, Cloud Build, Terraform, CloudFormation, Docker, Kubernetes. 4, Application and cloud security: SonarQube (SAST), Trivy (SCA, containers), Gitleaks, Wiz (CSPM), secrets management.">
-</picture>
+## Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/certs-blueprint.png">
-  <img src="assets/certs-paper.png" width="100%" alt="Certifications, drawn as rubber stamps: AWS Certified Solutions Architect - Professional, AWS Certified Security - Specialty, CompTIA Security+, StrongDM Architect.">
-</picture>
+| No. | Group | Tools |
+| :-: | :-- | :-- |
+| 1 | **Languages and frameworks** | Go, Java, Spring Boot, Spring Batch, Python, JavaScript, SQL, Bash |
+| 2 | **Cloud platforms** | AWS Lambda, S3, DynamoDB, AWS Secrets Manager, GCP Cloud Run, Firestore, Cloud KMS, Workload Identity |
+| 3 | **CI/CD and DevOps** | GitHub Actions, GitLab CI, Bitbucket, Cloud Build, Terraform, CloudFormation, Docker, Kubernetes |
+| 4 | **Application and cloud security** | SonarQube (SAST), Trivy (SCA, containers), Gitleaks, Wiz (CSPM), secrets management |
 
-<a href="https://henryp.me">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/link-blueprint.png">
-    <img src="assets/link-paper.png" width="100%" alt="The full set is at henryp.me: case studies, projects and the rest.">
-  </picture>
-</a>
+## Certifications
 
-The full set of drawings is at [henryp.me](https://henryp.me). I'm also on [LinkedIn](https://www.linkedin.com/in/henryjphillips/).
+| Issued by | Certification |
+| :-- | :-- |
+| AWS | **Solutions Architect - Professional** |
+| AWS | **Security - Specialty** |
+| CompTIA | **Security+** |
+| StrongDM | **Architect** |
+
+## General notes
+
+1. The full set of drawings is at [henryp.me](https://henryp.me): case studies, projects and the rest.
+2. Built to code: Go, Python, Java and Terraform.
+3. Drawn in one ink and set in one typeface.
+4. Also on [LinkedIn](https://www.linkedin.com/in/henryjphillips/).
