@@ -34,5 +34,4 @@ I build security into how software gets delivered: CI/CD platforms, secrets mana
 
 1. The full set of drawings is at [henryp.me](https://henryp.me): case studies, projects and the rest.
 2. Built to code: Go, Python, Java and Terraform.
-3. Drawn in one ink and set in one typeface.
-4. Also on [LinkedIn](https://www.linkedin.com/in/henryjphillips/).
+3. Also on [LinkedIn](https://www.linkedin.com/in/henryjphillips/).
