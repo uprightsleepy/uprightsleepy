@@ -11,7 +11,7 @@ I'm currently a Solutions Consultant at Wiz, now part of Google, where I manage 
 
 ## Work
 
-| | |
+| Title | Summary |
 | :-- | :-- |
 | **[Secrets migration](https://henryp.me/case-studies/secrets-migration)**<br>Case study, 2024 to 2025 | Designed and built the core Go Lambda that migrated 62,800+ secrets from HashiCorp Vault to AWS Secrets Manager. 85% of the migration was done in four months. |
 | **[CI/CD platform](https://henryp.me/case-studies/cicd-platform)**<br>Case study, 2025 to 2026 | Architected a CI/CD platform on Cloud Run for a company new to GCP, with SonarQube scanning, secret validation and signed production deploys built in. Twelve teams adopted it voluntarily, and onboarding a team went from weeks of tickets to about five minutes. |
@@ -20,7 +20,7 @@ I'm currently a Solutions Consultant at Wiz, now part of Google, where I manage 
 
 ## Skills
 
-| | |
+| Area | Tools |
 | :-- | :-- |
 | **Languages and frameworks** | Go, Java, Spring Boot, Spring Batch, Python, JavaScript, SQL, Bash |
 | **Cloud platforms** | AWS Lambda, S3, DynamoDB, AWS Secrets Manager, GCP Cloud Run, Firestore, Cloud KMS, Workload Identity |
